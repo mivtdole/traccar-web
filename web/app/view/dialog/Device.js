@@ -93,6 +93,12 @@ Ext.define('Traccar.view.dialog.Device', {
                 fieldLabel: Strings.sharedDisabled,
                 hidden: true,
                 reference: 'disabledField'
+            }, {
+                xtype: 'checkboxfield',
+                inputValue: true,
+                uncheckedValue: false,
+                name: 'forward',
+                fieldLabel: Strings.deviceForward
             }]
         }]
     }

@@ -59,6 +59,9 @@ Ext.define('Traccar.model.Device', {
         name: 'disabled',
         type: 'boolean'
     }, {
+        name: 'forward',
+        type: 'boolean'
+    }, {
         name: 'geofenceIds'
     }, {
         name: 'attributes'

@@ -150,6 +150,7 @@
     "deviceStatusOnline": "Online",
     "deviceStatusOffline": "Offline",
     "deviceStatusUnknown": "Unknown",
+    "deviceForward": "Forward",
     "groupDialog": "Group",
     "groupParent": "Group",
     "groupNoGroup": "No Group",
